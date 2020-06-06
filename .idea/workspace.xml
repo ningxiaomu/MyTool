@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MyTool:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e49d09d4-b1cc-4700-8f1d-7b26001f245b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cg9Ijqt5WswBm7WY8H1BetlcAR" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luo.utils" />
+      <recent name="com.luo.domain" />
+      <recent name="utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\MyTool\src\main\java\com\luo\utils" />
+      <recent name="C:\Users\Administrator\IdeaProjects\MyTool\src\main\java\com\luo\Images" />
+      <recent name="C:\Users\Administrator\IdeaProjects\MyTool\src\main\resources" />
+      <recent name="C:\Users\Administrator\IdeaProjects\MyTool\src\main\java\Images" />
+      <recent name="C:\Users\Administrator\IdeaProjects\MyTool\src\main\java\Controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Index">
+    <configuration name="CataLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luo.Controller.CataLog" />
+      <module name="MyTool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luo.Controller.Index" />
+      <module name="MyTool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Controller.Login" />
+      <module name="MyTool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luo.Controller.UserLogin" />
+      <module name="MyTool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="paint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luo.Controller.paint" />
+      <module name="MyTool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Index" />
+        <item itemvalue="Application.UserLogin" />
+        <item itemvalue="Application.CataLog" />
+        <item itemvalue="Application.paint" />
+        <item itemvalue="Application.Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e49d09d4-b1cc-4700-8f1d-7b26001f245b" name="Default Changelist" comment="" />
+      <created>1590939291766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590939291766</updated>
+      <workItem from="1590939295305" duration="3751000" />
+      <workItem from="1590990216819" duration="16096000" />
+      <workItem from="1591169422080" duration="11656000" />
+      <workItem from="1591237537887" duration="2474000" />
+      <workItem from="1591241436873" duration="19733000" />
+      <workItem from="1591283395660" duration="3988000" />
+      <workItem from="1591324688473" duration="19135000" />
+      <workItem from="1591367245522" duration="2538000" />
+      <workItem from="1591410643111" duration="370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
